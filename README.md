@@ -23,6 +23,6 @@ A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectiva
 
 | Entrada | Saída |
 | --- | --- |
-| 50000.085 | Valor final do investimento: R$ 7346.64 |
-| 10000.063 | Valor final do investimento: R$ 1191.02 |
-| 200000.0410 | Valor final do investimento: R$ 29604.89 |
+| 5000 <br> 0.08 <br> 5 | Valor final do investimento: R$ 7346.64 |
+| 1000 <br> 0.06 <br> 3 | Valor final do investimento: R$ 1191.02 |
+| 20000 <br> 0.04 <br> 10 | Valor final do investimento: R$ 29604.89 |
